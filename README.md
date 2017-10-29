@@ -87,3 +87,10 @@ let greeter = new Greeter("Hello");
 alert(greeter.greet("World"));
 ```
 
+#Hello_World in c++
+
+#include<iostream.h>
+void main()
+{
+ cout<<"Hello World!";
+}
