@@ -28,7 +28,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, world!");
+            Console.WriteLine("welcome 2017!");
             Console.ReadLine();
         }
     }
