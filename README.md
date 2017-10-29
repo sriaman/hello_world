@@ -1,4 +1,6 @@
-# hello_world
+## hello world
+
+# Hello, world!
 ## Java
 ```java
 import java.util.Scanner;
