@@ -12,6 +12,19 @@ public static void main(String[] args)
 {
 System.out.println("welcome 2017!");
 
+}}
+
+## PHP
+```php
+class HelloWorld{
+  function __construct(){
+    echo "Hello World";
+  }
+}
+$Obj = new HelloWorld;
+```
+
+
 # hello_world in C
 
 #include <stdio.h>
@@ -61,5 +74,4 @@ public static void main(String[] args)
     System.out.println("welcome 2017!");
   }
 }
-
 
