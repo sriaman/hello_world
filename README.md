@@ -74,4 +74,21 @@ public static void main(String[] args)
     System.out.println("welcome 2017!");
   }
 }
+```
+## TypeScript
+```ts
+class Greeter {
+    greeting: string
+    constructor(greetingMessage: string) {
+        this.greeting = greetingMessage;
+    }
+
+    greet(addressee: string) {
+        return this.greeting +  ' ' + addressee;
+    }
+}
+
+let greeter = new Greeter("Hello");
+alert(greeter.greet("World"));
+```
 
