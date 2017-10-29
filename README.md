@@ -1,6 +1,14 @@
 ## hello world
 
 # Hello, world!
+## Python
+
+```python
+try:
+    print "Hello world"
+except:
+    print("Hello world")
+```
 ## Java
 ```java
 
