@@ -75,3 +75,10 @@ public static void main(String[] args)
   }
 }
 
+#Hello_World in c++
+
+#include<iostream.h>
+void main()
+{
+ cout<<"Hello World!";
+}
