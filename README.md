@@ -1,12 +1,4 @@
-# hello_world
+## hello world
 
-import java.util.Scanner;
-
-class hello_world
-{
-
-public static void main(String[] args) 
-  { 
-    System.out.println("welcome 2017!");
-  }
-}
+# Hello, world!
+A tribute to K&R bible, the hello world in as many languages as possible. See the sources.
