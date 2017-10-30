@@ -39,7 +39,7 @@ printf("hello_world\nWelcome 2017!\n");
 }
 ```
 # hello_world in c++
-```cpp
+```
 #include<iostream>
  using namespace std;
   
