@@ -95,10 +95,11 @@ let greeter = new Greeter("Hello");
 alert(greeter.greet("World"));
 ```
 
-#Hello_World in c++
-
+## Hello_World in c++
+```cpp
 #include<iostream.h>
 void main()
 {
  cout<<"Hello World!";
 }
+```
