@@ -141,3 +141,18 @@ Module Module1
 End Module
 ## XSLT
       Hello World
+
+let greeter = new Greeter("Hello");
+alert(greeter.greet("World"));
+```
+
+## Brainfuck
+```
+++++++++[>++++[>++>+++>+++>+<<<<-]>+>+>->>+[<]<-]>>.>---.+++++++..+++.>>.<-.<.+++.------.--------.>>+.>++.
+```
+
+## Dogescript
+```
+plz console.loge with 'hello, world'
+```
+
