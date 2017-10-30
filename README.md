@@ -31,14 +31,14 @@ $Obj = new HelloWorld;
 ```
 
 
-# hello_world in C
-```
+## hello_world in C
+``` C
 #include <stdio.h>
 int main(){
 printf("hello_world\nWelcome 2017!\n");
 }
 ```
-# hello_world in c++
+## hello_world in c++
 ```cpp
 #include<iostream>
  using namespace std;
@@ -102,3 +102,11 @@ void main()
 {
  cout<<"Hello World!";
 }
+## hello world in c
+``` C
+#include<stdio.h>
+void main()
+{
+printf("hello world !");
+}
+```
